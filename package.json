@@ -1,0 +1,28 @@
+{
+  "name": "testttserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test_base.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexuanthai6104/Server_esp32_base.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lexuanthai6104/Server_esp32_base/issues"
+  },
+  "homepage": "https://github.com/lexuanthai6104/Server_esp32_base#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "moment": "^2.30.1",
+    "socket.io": "^4.8.1"
+  },
+  "devDependencies": {}
+}
